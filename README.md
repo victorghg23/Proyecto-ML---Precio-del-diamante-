@@ -37,11 +37,14 @@ En realidad no es un problema, sino más bien un inconveniente... Cada predicci�
     |__ Códigos (Códigos que se han usado para llevar a cabo el estudio)
         |__ NoteBook Train RFR.ipynb
         |__ NoteBook Test RFR.ipynb
+    |
     |__ Data (Datos iniciales para trabajar con los modelos predictivos)
         |__ diamonds_train.db
         |__ diamonds_test.csv
+    |
     |__ Entregas (Predicción final usando el Random Forest Regressor)
         |__ RandomForestRegressor (no city).csv
+    |
     |__ Modelos (Modelo predictivo usando el Random Forest Regressor)
         |__ RandomForestRegressor(no city).sav
 ```
