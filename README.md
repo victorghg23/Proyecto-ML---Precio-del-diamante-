@@ -43,10 +43,10 @@ __ Proyecto ML - ¿Precio del diamante?
         |__ diamonds_test.csv
     |
     |__ Entregas (Predicción final usando el Random Forest Regressor)
-        |__ RandomForestRegressor (no city).csv
+        |__ predicciónRandomForestRegressor(prueba 3).csv
     |
     |__ Modelos (Modelo predictivo usando el Random Forest Regressor)
-        |__ RandomForestRegressor(no city).sav
+        |__ RandomForestRegressor(prueba 3).sav
 ```
 
 
