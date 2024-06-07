@@ -32,7 +32,7 @@ En realidad no es un problema, sino más bien un inconveniente... Cada predicci�
 ## Estructura de carpetas 🗂️
 
 ```
-|__ Proyecto ML - ¿Precio del diamante?
+__ Proyecto ML - ¿Precio del diamante?
     |
     |__ Códigos (Códigos que se han usado para llevar a cabo el estudio)
         |__ NoteBook Train RFR.ipynb
