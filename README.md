@@ -1,3 +1,4 @@
-# Proyecto - ML ¿Precio del diamante?
+# Proyecto - ML ¿Precio del diamante? 💎💶
 ## Estado
-Proyecto Final del Modulo 3 de IronHack
+Proyecto finalizado del Modulo 3 de IronHack
+## Herramientas usadas en el proyecto ⚒️
