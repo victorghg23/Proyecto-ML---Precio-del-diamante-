@@ -28,3 +28,25 @@ Crear una herramienta que sea capaz de predecir ya no solamente el precio de los
 
 ## Problema del proyecto 💩
 En realidad no es un problema, sino más bien un inconveniente... Cada predicción puede tardar en torno a las 2 horas en adelante. Además de que el ordenador no se puede quedar apagado, porque si no la predicción se pararía y deberíamos de comenzar de cero.
+
+## Estructura de carpetas 🗂️
+
+```
+|__ Proyecto ML - ¿Precio del diamante?
+    |
+    |__ Códigos (Códigos que se han usado para llevar a cabo el estudio)
+        |__ NoteBook Train RFR.ipynb
+        |__ NoteBook Test RFR.ipynb
+    |__ Data (Datos iniciales para trabajar con los modelos predictivos)
+        |__ diamonds_train.db
+        |__ diamonds_test.csv
+    |__ Entregas (Predicción final usando el Random Forest Regressor)
+        |__ RandomForestRegressor (no city).csv
+    |__ Modelos (Modelo predictivo usando el Random Forest Regressor)
+        |__ RandomForestRegressor(no city).sav
+```
+
+
+
+
+
