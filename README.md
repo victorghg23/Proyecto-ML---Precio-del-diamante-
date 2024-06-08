@@ -44,9 +44,6 @@ __ Proyecto ML - ¿Precio del diamante?
     |
     |__ Entregas (Predicción final usando el Random Forest Regressor)
         |__ predicciónRandomForestRegressor(prueba 3).csv
-    |
-    |__ Modelos (Modelo predictivo usando el Random Forest Regressor)
-        |__ RandomForestRegressor(prueba 3).sav
 ```
 
 
